@@ -1,9 +1,9 @@
 # Basic-C2
 Very simple and basic C2, server written in python (has a builder) and client in c++ with only one command which is greet each connection returns the same message which is "Hello Fella"
 
-```
-i do NOT recommend if someone reverse engineers the fucking exe they will find your local ip i hard codded the server address because im a fucking retard
-```
+
+# **NOTE: i do NOT recommend if someone reverse engineers the fucking exe they will find your local ip i hard codded the server address because im a fucking retard**
+
 
 ```
 so im trying to get into malware development and other stuff so im trying to get better with c++
