@@ -10,6 +10,11 @@ so im trying to get into malware development and other stuff so im trying to get
 so this is like one of my first c++ projects kinda because most of the code was written in python like the builder the ui and the server
 ```
 
+# Note
+
+when you choose the server address do NOT type localhost
+instead type 127.0.0.1 if you want to listen locally
+
 # How to use
 ```
 1. have python installed (pretty sure all libs used are built in)
