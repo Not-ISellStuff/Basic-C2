@@ -33,6 +33,7 @@ class Builder:
 
         try:
             os.remove("Output/main.exe")
+            os.remove("Output/fix_this_piece_of_shit_github.txt")
         except:
             pass
 
