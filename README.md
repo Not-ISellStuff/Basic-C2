@@ -15,6 +15,8 @@ so this is like one of my first c++ projects kinda because most of the code was 
 when you choose the server address do NOT type localhost
 instead type 127.0.0.1 if you want to listen locally
 
+**im also assuming that you have some networking knowdlege like the roles of the server and client**
+
 # How to use
 ```
 1. have python installed (pretty sure all libs used are built in)
